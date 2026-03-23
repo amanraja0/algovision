@@ -1,16 +1,35 @@
-# React + Vite
+# 🚀 Algorithm Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web application to visualize sorting algorithms in real time.
 
-Currently, two official plugins are available:
+## 🔥 Features
+- Visualize Bubble Sort, Merge Sort, and Quick Sort
+- Real-time animation of comparisons and swaps
+- Adjustable speed control
+- Pause and Resume functionality
+- Dynamic array generation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠 Tech Stack
+- React (Vite)
+- Tailwind CSS v4
+- JavaScript (ES6)
 
-## React Compiler
+## 📊 Algorithms Implemented
+- Bubble Sort (O(n²))
+- Merge Sort (O(n log n))
+- Quick Sort (O(n log n))
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 What I Learned
+- Data Structures & Algorithms (Sorting)
+- Async animation handling in React
+- State management and performance optimization
+- Building interactive UI systems
 
-## Expanding the ESLint configuration
+## 📸 Preview
+(Add screenshot here later)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Run Locally
+
+```bash
+npm install
+npm run dev
